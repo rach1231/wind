@@ -1,2 +1,2 @@
 # wind
-my first repository on github
+welcome to the new world
